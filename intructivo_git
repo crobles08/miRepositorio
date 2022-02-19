@@ -1,4 +1,8 @@
 Crear repositorio en GITHUB (NUBE)
 - Solo se da crear repositorio.
+- Siempre dejar en publico
 
 Crear repositorioen GIT (LOCAL)
+--COMANDOS--
+1. git init =>
+2. git add -A 
