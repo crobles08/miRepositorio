@@ -62,3 +62,6 @@ pronombres = {
 
 for recorre in pronombres:
     print(pronombres, verboQuitado , pronombres[letrasFinales])
+
+
+print("Cambio GITHUB")
